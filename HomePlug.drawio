@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T16:35:28.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="LpyBJiqp0FhUKlzQhSMl" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T16:39:32.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="pXl2PXutF9R8Owi38bNB" version="22.0.8" type="github">
   <diagram name="第 1 页" id="4Hz0rkFYBHFQYvL2XjP1">
-    <mxGraphModel dx="938" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,6 +49,30 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="511" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rzh6YcGEG5G2oRxeDgS9-22" value="AV载荷数据输入(128 或 520 8位字节)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="630" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rzh6YcGEG5G2oRxeDgS9-23" value="" style="group;dashed=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="154" y="650" width="446" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rzh6YcGEG5G2oRxeDgS9-24" value="&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;1.0.1 帧控制编码器&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="rzh6YcGEG5G2oRxeDgS9-23">
+          <mxGeometry width="370" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rzh6YcGEG5G2oRxeDgS9-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;1/2 速率Turbo卷积&lt;br&gt;编码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rzh6YcGEG5G2oRxeDgS9-23">
+          <mxGeometry x="146" y="20" width="95.85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rzh6YcGEG5G2oRxeDgS9-26" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;分集拷贝&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rzh6YcGEG5G2oRxeDgS9-23">
+          <mxGeometry x="266" y="20" width="91.69" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rzh6YcGEG5G2oRxeDgS9-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rzh6YcGEG5G2oRxeDgS9-23" source="rzh6YcGEG5G2oRxeDgS9-25" target="rzh6YcGEG5G2oRxeDgS9-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzh6YcGEG5G2oRxeDgS9-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rzh6YcGEG5G2oRxeDgS9-23" source="rzh6YcGEG5G2oRxeDgS9-36" target="rzh6YcGEG5G2oRxeDgS9-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzh6YcGEG5G2oRxeDgS9-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;扰频器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rzh6YcGEG5G2oRxeDgS9-23">
+          <mxGeometry x="16" y="20" width="104" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
