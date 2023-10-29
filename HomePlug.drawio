@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T16:50:45.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="NAeJok23p-8H3aACD1B3" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T16:53:56.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Nu-tihKlXu5QF-y5GAmP" version="22.0.8" type="github">
   <diagram name="第 1 页" id="4Hz0rkFYBHFQYvL2XjP1">
-    <mxGraphModel dx="853" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="783" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,7 +126,12 @@
         <mxCell id="rzh6YcGEG5G2oRxeDgS9-48" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;循环前缀&amp;amp;&lt;br&gt;加窗&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="480" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rzh6YcGEG5G2oRxeDgS9-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;循环前缀&amp;amp;&lt;br&gt;加窗&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rzh6YcGEG5G2oRxeDgS9-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzh6YcGEG5G2oRxeDgS9-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="830.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzh6YcGEG5G2oRxeDgS9-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;模拟前端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="570" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rzh6YcGEG5G2oRxeDgS9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzh6YcGEG5G2oRxeDgS9-51">
@@ -137,6 +142,24 @@
         </mxCell>
         <mxCell id="rzh6YcGEG5G2oRxeDgS9-51" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;前导&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="350" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rzh6YcGEG5G2oRxeDgS9-56" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="830" as="sourcePoint" />
+            <mxPoint x="1180" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzh6YcGEG5G2oRxeDgS9-58" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;电力线信道&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="840" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rzh6YcGEG5G2oRxeDgS9-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzh6YcGEG5G2oRxeDgS9-59" target="rzh6YcGEG5G2oRxeDgS9-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzh6YcGEG5G2oRxeDgS9-59" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;模拟前端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="880" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rzh6YcGEG5G2oRxeDgS9-62" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;自动增益控制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="980" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
