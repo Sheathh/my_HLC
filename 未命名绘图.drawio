@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T10:09:47.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="TwR9b7kWBgvDn6WmaSaH" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T10:13:41.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="I4xdGrr2XpLjuVgODBjw" version="22.0.8" type="github">
   <diagram name="第 1 页" id="bhwV63MEfIiIhs41juwV">
     <mxGraphModel dx="491" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,14 +7,14 @@
         <mxCell id="ZTp84Jv6KxPLYjLbSIG_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZTp84Jv6KxPLYjLbSIG_-1" target="ZTp84Jv6KxPLYjLbSIG_-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZTp84Jv6KxPLYjLbSIG_-1" value="Find k-value&amp;nbsp;of the first article &quot; a &quot; or &quot; A &quot; in cipher text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="180" width="130" height="60" as="geometry" />
+        <mxCell id="ZTp84Jv6KxPLYjLbSIG_-1" value="Find corresponding&amp;nbsp;ciphered letter of the first article &quot; a &quot; or &quot; A &quot; in cipher text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTp84Jv6KxPLYjLbSIG_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZTp84Jv6KxPLYjLbSIG_-3" target="ZTp84Jv6KxPLYjLbSIG_-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZTp84Jv6KxPLYjLbSIG_-3" value="Find k-value by&lt;br&gt;&lt;i&gt;mod(C - p, 26)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="ZTp84Jv6KxPLYjLbSIG_-3" value="Locate the&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="180" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTp84Jv6KxPLYjLbSIG_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZTp84Jv6KxPLYjLbSIG_-6">
           <mxGeometry relative="1" as="geometry">
