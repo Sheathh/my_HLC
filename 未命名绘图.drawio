@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T09:57:57.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="XL45jf4wBlZMtFHKrPHE" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T10:09:47.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="TwR9b7kWBgvDn6WmaSaH" version="22.0.8" type="github">
   <diagram name="第 1 页" id="bhwV63MEfIiIhs41juwV">
     <mxGraphModel dx="491" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="ZTp84Jv6KxPLYjLbSIG_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZTp84Jv6KxPLYjLbSIG_-1" target="ZTp84Jv6KxPLYjLbSIG_-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZTp84Jv6KxPLYjLbSIG_-1" value="&lt;img src=&quot;file:///C:/Users/ASUS/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png&quot; height=&quot;19&quot; width=&quot;15&quot;&gt;Find position &lt;i&gt;C&lt;/i&gt;&amp;nbsp;of the first&lt;br&gt;&amp;nbsp;&quot; a &quot; or &quot; A &quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="ZTp84Jv6KxPLYjLbSIG_-1" value="Find k-value&amp;nbsp;of the first article &quot; a &quot; or &quot; A &quot; in cipher text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTp84Jv6KxPLYjLbSIG_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZTp84Jv6KxPLYjLbSIG_-3" target="ZTp84Jv6KxPLYjLbSIG_-11">
           <mxGeometry relative="1" as="geometry" />
